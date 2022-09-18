@@ -6,5 +6,6 @@ indeed Bitcoin cannot be considered really a currency...
 I exploited also GARCH model
 I implemented Vector Error Correction model exploiting bitcoin's cointegration (=common trend shared) with ether.
 
-The complete report is available here!
+The complete REFERENCE PAPER, followed in the developement of the project, is UPLOADED HERE
+
  
